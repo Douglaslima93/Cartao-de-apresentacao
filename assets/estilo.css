@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgb(56, 40, 40);
+}
+
+.main {
+    width: 100%;
+    font-family: 'Roboto', sans-serif;
+    margin: 50px auto;
+}
+
+.section {
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    background-color: grey;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px 3px black;
+}
+
+header{
+    text-align: center;
+    padding: 5px;
+}
+
+header h3 {
+    margin-top: 10px;
+}
+
+.img img{
+    display: block;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    border-radius: 50px;
+}
+
+.texto p{
+    text-align: justify;
+    padding: 5px;
+    font-size: 15px;
+}
+
+footer {
+    text-align: center;
+    padding: 5px;
+    margin-top: 10px;
+}
